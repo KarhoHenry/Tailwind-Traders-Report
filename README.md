@@ -21,6 +21,11 @@ The goal of this project was to analyse sales data to identify trends and KPIs.
 #### Quantity Sold by Product
 Bar chart showcasing product sales volume to identify high and low performers.
 
+## Data Insights
+- Top Products: Modular Sofa Set, Motion Sensor Alarm, and Bamboo Plant Pot contributed the highest revenue.
+- Top Countries: USA, UK, and Australia dominate revenue and loyalty points metrics.
+- Trends Over Time: Peak sales and profit margins fluctuate, with notable spikes during specific periods.
+
 ## Files in this Repository  
 - `Tailwind Traders Report.pbix`: The Power BI project file.  
 - `Screenshots`: Contains images of the dashboard and key visualizations.  
