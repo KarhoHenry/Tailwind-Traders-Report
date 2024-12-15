@@ -22,14 +22,13 @@ The goal of this project was to analyse sales data to identify trends and KPIs.
 Bar chart showcasing product sales volume to identify high and low performers.
 
 ## Files in this Repository  
-- `Tailwind Traders  Report.pbix`: The Power BI project file.  
+- `Tailwind Traders Report.pbix`: The Power BI project file.  
 - `Screenshots`: Contains images of the dashboard and key visualizations.  
 - `README.md`: Documentation for this project.  
 
 ## Dashboard Screenshots  
-- ![Profit Overview](./Screenshots/Profit Overview.jpg) 
-
-- ![Sales Overview](./Screenshots/Sales Overview.jpg)  
+- Profit Overview
+- Sales Overview
 
 
 ## Tools and Technologies  
