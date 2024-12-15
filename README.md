@@ -28,7 +28,7 @@ Bar chart showcasing product sales volume to identify high and low performers.
 
 ## Files in this Repository  
 - `Tailwind Traders Report.pbix`: The Power BI project file.  
-- `Screenshots`: Contains images of the dashboard and key visualizations.  
+- `Screenshots`: Contains images of the dashboard and key visualizations and a screenshot of the Data Model.  
 - `README.md`: Documentation for this project.  
 
 ## Dashboard Screenshots  
